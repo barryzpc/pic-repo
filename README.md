@@ -15,13 +15,13 @@
 ## 创建自己的项目
 
 #### 在pic-repo项目中创建自己的项目，比如我有个博客的项目那么我就建立一个my-blog的文件夹，并在在文件夹下面分别创建img,js等目录：
-![image.png](https://img.hacpai.com/file/2020/03/image-589b7be6.png)
+![image.png](https://cdn.jsdelivr.net/gh/barryzpc/pic-repo/my-blog/img/image-589b7be6.png)
 
 ## 添加静态文件到对应的目录中
 
 #### 比如，我添加一张图片到我的img目录下
 
-![image.png](https://img.hacpai.com/file/2020/03/image-7f90875c.png)
+![image.png](https://cdn.jsdelivr.net/gh/barryzpc/pic-repo/my-blog/img/image-7f90875c.png)
 
 ## 提交到github
 
