@@ -3,7 +3,7 @@
 
 ## 在github上创建一个图床仓库
 
-![image.png](https://img.hacpai.com/file/2020/03/image-c1eaf3b5.png)
+![image.png](https://cdn.jsdelivr.net/gh/barryzpc/pic-repo/my-blog/img/image-c1eaf3b5.png)
 
 - PS：一定要选Public不然无法访问到资源
 
